@@ -1,0 +1,86 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+article, aside, header, nav, section#contenedor, section#contenido, footer{
+	border-radius: .5em;
+	margin: .3em auto;
+	padding: .3em;
+	font-family: cursive;
+	width: 90%;
+
+}
+body{
+	background-color: rgb(177, 217, 238);
+}
+a{
+	font-weight: bold;
+	text-decoration: none;
+	color:#403F4B;
+}
+
+article{
+	display: inline-block;
+	text-align: justify;
+	width: 90%;
+}
+footer{
+	font-size: .9em;
+}
+header{
+	width: 100%
+	border-radius: .5em;
+	font-size: 1.0em;
+	
+}
+header a img{
+	width: 100%;
+	border-radius: .5em;
+
+}
+ section#contenido img{
+ 	width: 39%;
+	float: left;
+	border-radius: .5em;
+	font-size: 1.0em;
+	margin: 1.0em;
+
+}
+nav{
+	background-color: rgb(121, 69, 178);
+	text-align: left;
+}
+nav ul{
+	list-style: none;
+}
+nav li{
+	display: inline-block;
+	padding: 1.0em;
+}
+nav a{
+	border-radius: 0.25em;
+	color: white;
+	display: block;
+	font-size: 1.4em;
+	padding: 0.4em;
+	transition: all .5s ease-in;
+}
+nav a:hover{
+	background-color: rgb(167, 244, 248);
+	color:white;
+
+}
+nav li ul{
+	display: none;
+
+}
+nav li:hover>ul{
+	display: block;
+}
+
+section#contenido{
+	background-color: rgb(195, 177, 238);
+	min-height:100px;
+	padding: 2.0em;
+}
