@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title> MAQUETACION </title>
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+		<header><a href=""><img src="simg/portada.jpg"></a></header>
+			<nav >
+			<ul>
+				<li><a href="">INICIO</a></li>
+				<li><a href="paginas/mi familia.html">MI FAMILIA</a></li>
+				<li><a href="paginas/mis centros de estudios.html">MIS CENTROS DE STUDIOS</a></li>
+				<li><a href="paginas/mi universidad.html">MI UNIVERSIDAD</a></li>
+				<li><a href="paginas/mi carrera.html">MI CARRERA</a></li>
+			</ul>
+			</nav>
+		<section id="contenedor">
+			<section id="contenido"> 
+				<img src="img/perfil.jpg">
+			<h4></br>NOMBRES: Milagros Medalit</h4> 
+			<h4>APELLIDOS:Contreras Chuquitarqui</h4>
+			<h4>EDAD: 17 años</h4>
+			<h4>FECHA DE NACIMIENTO: 06 de octubre del 2001</h4>
+			<h4>LUGAR DE NACIMIENTO: Puno-San Román-Juliaca</h4>
+			<p></br>Soy la hija menor tal vez es por so que recibo mas cariño de parte de mis padres aunque no necesariamente es cierto, cuando era pequeña no me llevaba bien con mi hermano casi siempre peleabamos por que el jugaba muy rudo conmigo ya que es varon y es mayor que yo por 5 años.
+			Mi mamá siempre estaba trabajando al igual que mi papá es por esa razón que no pasaba mucho tiempo con ellos.</br></p>
+			<p></br>A los 3 años de edad debido a que mi mamá no queria dejarme sola me llevo con ella al lugar donde trabajaba y no fueron solo 1 o 2 días, su trabajo eran estar 15 días en ese lugar y 15 días de descanso, y ese lugar era muy lejos y el camino era peligroso, al principio no quise pero me puse a pensar que mi mamá tal vez no regresaría asi que me fui con ella.</p>
+			<p></br>Yo a esa edad era muy traviesa la razón por la cual mi mamá me matriculo en un jardín y comenze mi vidad estudiantil desde los tres años de edad.</p>
+			<p></br>Ya cuando comence la primaria a los 5 años todo me parecía común a diferencia de otros niños que no querian separase de sus padres, yo lo hice sin ningun problema.</p>
+			<p></br>Durante la mayor parte de la primaria odiaba a muerte las matemáticas y era una alumna no tan responsable, detalle que cambio cuando un día hubo una reunión de padres de familia a la que fue mi mamá con muchas espectativas de mi y regreso queriendo golpearme, la razón fue que mi madre se había enterado que su hija no era obediente y era una mala estudiante, mi mamá me regaño y me puse triste unos días por eso como cualquier niño, días después cuando mi madre se fue a trabajar por 15 días otra vez yo seguía en la misma irresponsabilidad de siempre.</p>
+			<p></br>Ya habían pasado más de 15 días y mi mamá aun no volvia, mi yo de 6 años creía que mi mamá me habia avandonado por que era una mala hija esa sola idea me atormento por varios días hasta que alfin un día mi mamá llegó y supe que tenía la oportunidad de ser mejor hija por ella. </p>
+			<p></br>Después de ese acontecimiento me esforce para ser la mejor de mi salón y mi mamá no me "abandonara" hecho que dio frutos ya que en quinto de primaria fui la tercera en el ranking de mi salón y ya para sexto de primaria saque mi primera diploma de primer lugar y mi más grande premio fue ver a mi mamá orgullosa de mi.</p>
+			<p></br>Ya en secundaria todo iba de la misma manera hasta que en segundo de secundaria por el trabajo de mimmamá y por que ella ya no me quería tener lejos nos mudamos a juliaca en donde termine la secundaria.</p>
+			<p></br>Al terminar el colegio crei que todo sería facil después pero estaba muy equivocada ya que los conocimientos que tenia no eran suficientes y habian estudiantes mas preparados para ingresar a la universidad que yo escogi fue la UNA puno y ralmente que´ría ingresar allí pase un año intentando y depsués de tanto intenatr y esforzarme al fin lo consegui, ahora solo me queda esforzarme mucho más para terminar la carrrera. </p>
+
+			</section>
+			<aside>
+				<article>
+					<h6>Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</h6><h6>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </h6><h6>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</h6></article>
+
+			</aside>	
+		</section>
+		<footer>
+			&copy; Milagros Medalit - todos los derechos reservados
+		</footer>
+
+</body>
+</html>
